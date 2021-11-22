@@ -1,7 +1,7 @@
 # DoodleBot by mitmedialab
 
 
-[![Build Status](./images/projects/all_1.jpg)
+[! Build Status](./images/projects/all_1.JPG)
 
 ## But Why?
 
