@@ -1,5 +1,5 @@
 # doodleBot
-
+[mine](https://github.com/halemade/doodlebot) | [based on mitmedialab's] (https://mitmedialab.github.io/doodlebot/) | [based on Maker's Box Ken's](http://www.makersbox.us/2015/11/chicktech-robotics-2015.html)
 
 ![Build Status](./images/projects/all_1.JPG)
 
