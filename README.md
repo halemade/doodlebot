@@ -1,28 +1,15 @@
-# DoodleBot by mitmedialab
+# doodleBot
 
 
 ![Build Status](./images/projects/all_1.JPG)
 
 ## But Why?
 
-I came across this project when I was looking for a fun and interactive way to play with gcode. Actually building the bot has taken a while as I collected the parts slowly. 
+I came across this project when I was looking for a fun and interactive way to play with gcode. I was curious about building something that could draft patterns for furniture as a sort of segue by which old school furniture humans could understand the value of digital-first product development.
 
-### Configuration variables
+### Building Notes
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-logo: [Location of the logo]
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+The support structures for the pen holder are difficult to remove cleanly, going to see if I can modify the file and build in soome support structures.
 
 ### Stylesheet
 
