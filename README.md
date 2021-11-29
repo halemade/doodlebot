@@ -9,7 +9,7 @@ I came across this project when I was looking for a fun and interactive way to p
 
 ### Building Notes
 
-The support structures for the pen holder are difficult to remove cleanly, going to see if I can modify the file and build in some support structures. The space for the pen is also a little small, based on my marker hunt through my kiddo's art center. Going to see if I can find some of those [skinny Crayola markers](https://www.dickblick.com/products/crayola-fine-line-markers/). It went together pretty easily! The images didn't always agree with the circuit diagrams so after I finish I plan to redraw the circuit and add to this repo.
+The support structures for the pen holder are difficult to remove cleanly, going to see if I can modify the file and build in some support structures. The space for the pen is also a little small, based on my marker hunt through my kiddo's art center. Going to see if I can find some of those [skinny Crayola markers](https://www.dickblick.com/products/crayola-fine-line-markers/)(update: the skinny markers are too fat). It went together pretty easily! The images didn't always agree with the circuit diagrams so after I finish I plan to redraw the circuit and add to this repo.
 
 ### Code
 
